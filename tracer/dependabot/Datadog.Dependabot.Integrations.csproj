@@ -258,7 +258,7 @@
     <!-- Integration: OpenTelemetry.Api -->
     <!--    Assembly: OpenTelemetry.Api -->
     <!-- Latest package https://www.nuget.org/packages/OpenTelemetry.Api/1.10.0 -->
-    <PackageReference Include="OpenTelemetry.Api" Version="1.10.0" />
+    <PackageReference Include="OpenTelemetry.Api" Version="1.11.2" />
 
     <!-- Integration: Oracle.ManagedDataAccess -->
     <!--    Assembly: Oracle.ManagedDataAccess -->
